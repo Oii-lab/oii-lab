@@ -28,7 +28,7 @@ const videos = [
     tags:  ['sort', 'algo'],
   },
   {
-    id:    'R1mFEml_MnlpRQlj',
+    id:    '8HA96eY-9_o',
     title: 'Quick Sort — Partition 詳解',
     tags:  ['sort', 'algo'],
   },
