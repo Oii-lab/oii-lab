@@ -28,15 +28,15 @@ const videos = [
     tags:  ['sort', 'algo'],
   },
   {
-    id:    'YOUTUBE_ID_HERE',
+    id:    'R1mFEml_MnlpRQlj',
     title: 'Quick Sort — Partition 詳解',
     tags:  ['sort', 'algo'],
   },
-  {
+ /* {
     id:    'YOUTUBE_ID_HERE',
     title: 'Merge Sort — 分治法入門',
     tags:  ['sort', 'algo', 'ds'],
-  },
+  },*/
   {
     id:    '5UH3u_KdKEE',
     title: 'C++ 入門 #01 — 第一支程式',
